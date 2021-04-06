@@ -26,6 +26,13 @@ You can visit my blog trough [this link](https://juliansyahrifqi.hashnode.dev).
 | Menggunakan Hashnode GraphQL API pada Aplikasi React | [link](https://juliansyahrifqi.hashnode.dev/menggunakan-hashnode-graphql-api-pada-aplikasi-react) |
 | Membuat Skeleton Screen di React JS | [link](https://juliansyahrifqi.hashnode.dev/membuat-skeleton-screens-di-reactjs) |
 
+## Series
+
+### SASS or SCSS
+|    Title    |     Link Hashnode     |
+|-------------|:---------------------:|
+| Perkenalan dan Cara Instalasi SASS | [link](https://juliansyahrifqi.hashnode.dev/perkenalan-dan-cara-instalasi-sass) |
+
 ## Others 
 |    Title    |     Link Hashnode     |
 |-------------|:---------------------:|
