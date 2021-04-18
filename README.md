@@ -32,6 +32,7 @@ You can visit my blog trough [this link](https://juliansyahrifqi.hashnode.dev).
 |    Title    |     Link Hashnode     |
 |-------------|:---------------------:|
 | Perkenalan dan Cara Instalasi SASS | [link](https://juliansyahrifqi.hashnode.dev/perkenalan-dan-cara-instalasi-sass) |
+| Variabel SASS | [link](https://juliansyahrifqi.hashnode.dev/belajar-sass-variabel) |
 
 ## Others 
 |    Title    |     Link Hashnode     |
