@@ -7,6 +7,7 @@
 5. Buat sesuatu dari materi yang sudah dipelajari tadi 
 6. Lakukan selama minimal 1 jam dalam sehari
 7. Ulangi langkah 1-6 setiap hari
+8. Jangan lupa berdoa karena usaha tanpa doa itu sombong.
 
 Itulah 7 langkah tutorial agar jago ngoding, terlihat mudah bukan? hati-hati, terkadang yang 'terlihat' mudah, belum tentu mudah juga dilakukan. Inti dari semuanya adalah konsistensi dan menjadikan hal diatas menjadi sebuah habits atau kebiasaan. Mungkin terlihat sepele tapi jika dilakukan terus menerus akan membawa perubahan yang besar.
 
