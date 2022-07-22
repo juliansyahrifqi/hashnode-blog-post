@@ -12,9 +12,9 @@ Dataset dengan kualitas yang tinggi akan mengikuti 5 aturan yang ketat, yaitu **
 ### Validity (Valid atau Absah)
 Data memiliki batasan atau keunikannya masing-masing. 
 
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1658494896270/vc__ThjlR.png align="center") 
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1658494896270/vc__ThjlR.png) 
 
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1658494953362/bgFiGX_5x.png align="center")
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1658494953362/bgFiGX_5x.png)
 
 Misal seperti gambar di atas, setiap benda tersebut memiliki tanda pengenal yang unik. Setiap telepon mempunyai nomor yang unik (setiap orang berbeda-beda) jika ada orang yang memiliki nomor yang sama dengan kita maka itu akan menjadi masalah, sama halnya seperti plat nomor pada mobil, plat nomor setiap kendaraan/mobil memiliki keunikan masing-masing, apabila ada yang sama maka akan menjadi masalah besar.
 
@@ -22,7 +22,7 @@ Berhubungan dengan data, setiap data harus memiliki pengenal yang unik. Jika tid
 
 Kemudian, data yang valid juga memiliki batas jarak. 
 
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1658495565170/N9yq3I0R3.png align="center")
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1658495565170/N9yq3I0R3.png)
 
 Misal dari gambar diatas terdapat **Roll** dengan value yang berbeda-beda. Kita lihat pada roll ke-6 value yang keluar adalah 7, hal tersebut tidak akan mungkin mengingat dadu hanya memiliki nilai maks yaitu 6.
 
@@ -44,7 +44,7 @@ Hal yang wajar apabila kita terus menanyakan "Apakah data yang kita punya sudah 
 
 ### Consistency
 
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1658497091388/v5uzvmhmH.png align="left")
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1658497091388/v5uzvmhmH.png)
 
 Kita lihat pada gambar di atas, pada tabel yang atas rumah yang terdapat pada alamat **123 ABC St** adalah kepemilikan dari **Owner ID 12**, tetapi kemudian pada tabel yang bawah **Owner ID 12** memiliki alamat di **53rd Ave.**. Hal tersebut akan menimbulkan pertanyaan **Jadi, siapa yang memiliki rumah tersebut?**. 
 
@@ -52,7 +52,7 @@ Hal tersebut membuat data yang ada tidak konsisten dan sulit dimengerti oleh man
 
 ### Uniformity
 
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1658497353013/vX9y6ubRX.png align="left")
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1658497353013/vX9y6ubRX.png)
 
 Ada sebuah kasus seperti yang ada pada gambar di atas, NASA kehilangan robot pengorbit iklim di Mars karena tim peneliti menggunakan sistem pengukuran yang berbeda, di tim satu menggunakan sistem Inggris yaitu **feet dan yards** dan tim lainnya menggunakan metric system. Sehingga perhitungan atau pengukuran yang harusnya bisa sama malah memiliki hasil yang berbeda, entah yang mana yang benar.
 
