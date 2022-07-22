@@ -7,12 +7,13 @@ Sebelum memulai, ada sebuah kalimat yaitu **"Garbage in... garbage out"**. Artin
 Karena dalam ML sendiri bergantung pada pola data yang konsisten dan tentunya data yang baik. Jika kita menggunakan data sampah, maka hasil yang dikeluarkan juga akan berupa sampah.
 * * *
 
-Dataset dengan kualitas yang tinggi akan mengikuti 5 aturan yang ketat, yaitu **Validity**, **Accuracy**, **Completeness**, **Consistency **dan **Uniformity**. Kita akan jelaskan satu-persatu dibawah ini.
+Dataset dengan kualitas yang tinggi akan mengikuti 5 aturan yang ketat, yaitu **Validity**, **Accuracy**, **Completeness**, **Consistency ** dan **Uniformity**. Kita akan jelaskan satu-persatu dibawah ini.
 
 ### Validity (Valid atau Absah)
 Data memiliki batasan atau keunikannya masing-masing. 
 
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1658494896270/vc__ThjlR.png align="center") 
+
 ![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1658494953362/bgFiGX_5x.png align="center")
 
 Misal seperti gambar di atas, setiap benda tersebut memiliki tanda pengenal yang unik. Setiap telepon mempunyai nomor yang unik (setiap orang berbeda-beda) jika ada orang yang memiliki nomor yang sama dengan kita maka itu akan menjadi masalah, sama halnya seperti plat nomor pada mobil, plat nomor setiap kendaraan/mobil memiliki keunikan masing-masing, apabila ada yang sama maka akan menjadi masalah besar.
